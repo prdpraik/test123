@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+    
+}
+.container {
+  height: 100%;
+  
+  justify-content: center;
+  align-items: center;
+  
+}
+.form-group label {
+  font-weight: 500;
+  font-size: 12px;
+}
+.custom_color{
+  background: #5fcf80 !important;
+}
+.txt_box { background: #f7f7f7;}
+.link_class { font-size: 12px; }
+#root, .App { height: 100%; }
